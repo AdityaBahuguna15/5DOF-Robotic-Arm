@@ -1,6 +1,6 @@
 # Robotic-Arm
 Currently in works... :D
-Here are some sneak peaks
+Here are some sneak peaks for the upcoming 6DoF Arm
 
 Version 1: (Non Spherical Wrist)
 
